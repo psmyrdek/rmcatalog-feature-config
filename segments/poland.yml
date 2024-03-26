@@ -1,5 +1,5 @@
-description: The Netherlands
+description: Poland
 conditions:
   - attribute: country
     operator: equals
-    value: nl
+    value: pl

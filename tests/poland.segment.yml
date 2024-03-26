@@ -1,0 +1,9 @@
+segment: poland
+assertions:
+  - context:
+      country: pl
+    expectedToMatch: true
+
+  - context:
+      country: xy
+    expectedToMatch: false
