@@ -1,0 +1,13 @@
+{
+  "features": {
+    "pagination": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    }
+  }
+}
